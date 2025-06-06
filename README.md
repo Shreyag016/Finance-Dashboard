@@ -74,4 +74,5 @@ This dashboard enables:
 
 📈 Insightful decisions on ATM placements and service improvements.
 
-snapshot(
+snapshot(https://github.com/Shreyag016/Finance-Dashboard/blob/main/ATM%20transcation%20Snapshot.png)
+Detailed Snapshot(https://github.com/Shreyag016/Finance-Dashboard/blob/main/Detailed.png)
