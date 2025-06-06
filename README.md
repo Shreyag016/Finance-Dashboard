@@ -74,4 +74,4 @@ This dashboard enables:
 
 📈 Insightful decisions on ATM placements and service improvements.
 
-🕒 Better uptime monitoring to ensure customer satisfaction.# Finance-Dashboard
+snapshot(
